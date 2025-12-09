@@ -1,0 +1,1 @@
+# Crunchyroll-pular-abertura-e-fechamento-para-tampermonkey
